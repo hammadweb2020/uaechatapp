@@ -77,7 +77,7 @@ if(user)
 }) 
 
 
-const PORT = 3000 || process.env.PORT;
+const PORT = 5000 || process.env.PORT;
 
 server.listen(PORT, () => console.log(`server is running on ${PORT}`));
 
