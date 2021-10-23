@@ -187,3 +187,13 @@ a {
 		display: none;
 	}
 }
+
+.footer-copyright{
+
+    background-color: white;
+    padding: 5px;
+    text-align: center;
+    color: #551a8b;
+    margin-top: 10px;
+
+}
